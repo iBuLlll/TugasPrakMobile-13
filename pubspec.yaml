@@ -33,6 +33,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
+    - assets/images/profile.jpeg
   fonts:
     - family: Quicksand
       fonts:
@@ -40,3 +41,6 @@ flutter:
         - asset: assets/fonts/Quicksand-Bold.ttf
           weight: 700
           # style: italic
+
+    
+
